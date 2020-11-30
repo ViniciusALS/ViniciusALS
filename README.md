@@ -27,7 +27,7 @@ I am an electronics enginering technology student and I like programming and lea
 ## Status
 
 <p align='center'>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ViniciusALS&hide_title&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ViniciusALS&hide_title=true&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <details>
