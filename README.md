@@ -13,7 +13,24 @@
   
 </p>
 
-### Hi there 👋
+### Hi there 👋 I am Vinicius
 
-I am Vinicius. I am an electronics enginering technology student and I like programming and learning new things. 
+I am an electronics enginering technology student and I like programming and learning new things. 
+
+<details>
+  <summary>📃 My Resume</summary>
+
+
+## Education
+
+- 📖 **Electronics Engineering Technology**\
+📆 2018 - 2021\
+📍 **Humber Institute of Technology and Advanced Learning** - Toronto, Canada
+
+
+- 📖 **Industrial Automation Technician**\
+📆 2015 - 2017\
+📍 **SENAI (Serviço Nacional de Aprendizagem Industrial - *National Service for Industrial Training)*** - Rio de Janeiro, Brazil
+
+</details>
 
