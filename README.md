@@ -30,7 +30,7 @@ I am an electronics enginering technology student and I like programming and lea
 
 - 📖 **Industrial Automation Technician**\
 📆 2015 - 2017\
-📍 **SENAI (Serviço Nacional de Aprendizagem Industrial - *National Service for Industrial Training)*** - Rio de Janeiro, Brazil
+📍 **SENAI (Serviço Nacional de Aprendizagem Industrial - *National Service for Industrial Training*)** - Rio de Janeiro, Brazil
 
 </details>
 
