@@ -18,7 +18,7 @@
 I am an electronics enginering technology student and I like programming and learning new things. 
 
 <details>
-  <summary>📃 My Resume</summary>
+  <summary>🏫 My Education</summary>
 
 
 ## Education
